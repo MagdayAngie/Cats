@@ -1,0 +1,14 @@
+body {
+background-color: plum;
+margin: 100px;
+}
+h1{
+    color: rgb(245, 84, 138);
+}
+p{
+ color: #671672;
+ font-style: inherit;
+}
+h1{
+    font-style: var(font-style);
+}
